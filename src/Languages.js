@@ -12,7 +12,6 @@ class Languages extends Component {
     render () {
         return (
            <div className='tc bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5'>
-               <div className='tc'>
                <h2 className='f1'>{this.props.greeting} in the morning.</h2>
                <p>Check the options below to see other greetings of other languages</p>
                <select id='greetings' onChange={this.handleChange} className='pa3 ba b--green bg-lightest-blue' >
@@ -38,7 +37,6 @@ class Languages extends Component {
                        German
                    </option>
                </select>
-               </div>
            </div>
         )
     }
