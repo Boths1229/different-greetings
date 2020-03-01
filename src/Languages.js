@@ -18,10 +18,10 @@ class Languages extends Component {
                    <option value='Goodmorning is the English greeting'>
                        English
                    </option>
-                   <option value='Eka arooo is the Yoruba greeting'>
+                   <option value='e kaaro is the Yoruba greeting'>
                        Yoruba
                    </option>
-                   <option value='Iboolachi is the Igbo greeting'>
+                   <option value='ụtụtụ ọma is the Igbo greeting'>
                        Igbo
                    </option>
                    <option value='barka da safiya is the Hausa greeting'>
